@@ -4,8 +4,6 @@ This repository contains the analysis and data-preparation scripts for evaluatin
 
 ## Repository contents
 
-Keep these three files in the GitHub repository:
-
 | File | Purpose |
 |---|---|
 | `README.md` | Project description, data sources, methods, and instructions |
